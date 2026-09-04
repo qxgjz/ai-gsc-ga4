@@ -1,0 +1,107 @@
+name: Daily GSC+GA4 Analysis
+
+on:
+  schedule:
+    # 每天UTC时间凌晨3点运行（北京时间上午11点）
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'Number of days to analyze'
+        required: false
+        default: '30'
+      site:
+        description: 'Site ID to analyze'
+        required: false
+        default: 'aitoolcrux'
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Create service account file
+        run: |
+          echo '${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}' > service-account.json
+          echo "Service account file created"
+          ls -la service-account.json
+      
+      - name: Create sites config
+        run: |
+          cat > sites.config.json << 'EOF'
+          {
+            "sites": [
+              {
+                "id": "aitoolcrux",
+                "name": "AIToolCrux",
+                "gscProperty": "https://www.aitoolcrux.com/",
+                "ga4PropertyId": "357333528",
+                "defaultCountry": "USA",
+                "defaultLanguage": "en",
+                "conversionEvents": ["sign_up", "generate_lead"],
+                "segments": {
+                  "brandQueries": ["aitoolcrux", "ai tool crux"],
+                  "targetCountries": ["USA", "GB", "CA", "AU"],
+                  "contentPathPrefixes": ["/blog/", "/tools/", "/category/"]
+                }
+              }
+            ]
+          }
+          EOF
+          echo "Sites config created"
+          cat sites.config.json
+      
+      - name: Run analysis
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ./service-account.json
+        run: |
+          DAYS="${{ github.event.inputs.days || '30' }}"
+          SITE="${{ github.event.inputs.site || 'aitoolcrux' }}"
+          echo "Running analysis for site: $SITE, days: $DAYS"
+          npm run pipeline -- --site $SITE --days $DAYS
+      
+      - name: List generated reports
+        run: |
+          echo "Generated reports:"
+          find reports -type f -name "*.md" 2>/dev/null || echo "No reports found"
+          find data -type f 2>/dev/null || echo "No data files found"
+      
+      - name: Commit and push results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add generated files
+          git add reports/ data/ 2>/dev/null || true
+          
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily GSC+GA4 analysis report $(date +'%Y-%m-%d')"
+            git push
+            echo "Results committed and pushed"
+          fi
+      
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gsc-ga4-report-${{ github.run_id }}
+          path: |
+            reports/
+            data/
+          retention-days: 30
