@@ -1,0 +1,18 @@
+{
+  "sites": [
+    {
+      "id": "your-project-id",
+      "name": "Your Project Name",
+      "gscProperty": "sc-domain:your-domain.com",
+      "ga4PropertyId": "your-ga4-property-id",
+      "defaultCountry": "USA",
+      "defaultLanguage": "en",
+      "conversionEvents": ["sign_up", "purchase", "generate_lead"],
+      "segments": {
+        "brandQueries": ["example"],
+        "targetCountries": ["USA"],
+        "contentPathPrefixes": ["/blog/", "/guides/"]
+      }
+    }
+  ]
+}

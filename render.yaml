@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: ai-gsc-ga4
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: "3000"
+      - key: GOOGLE_SERVICE_ACCOUNT_JSON
+        sync: false
