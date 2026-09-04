@@ -49,7 +49,7 @@ jobs:
                 "id": "aitoolcrux",
                 "name": "AIToolCrux",
                 "gscProperty": "https://www.aitoolcrux.com/",
-                "ga4PropertyId": "357333528",
+                "ga4PropertyId": "552513639",
                 "defaultCountry": "USA",
                 "defaultLanguage": "en",
                 "conversionEvents": ["sign_up", "generate_lead"],
