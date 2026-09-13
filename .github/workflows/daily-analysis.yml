@@ -86,7 +86,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Add generated files
-          git add reports/ data/ 2>/dev/null || true
+          git add -f reports/ data/ 2>/dev/null || true
           
           # Check if there are changes
           if git diff --staged --quiet; then
