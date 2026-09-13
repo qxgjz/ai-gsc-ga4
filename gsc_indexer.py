@@ -186,7 +186,8 @@ def submit_urls_for_indexing(indexing_service, urls_to_submit):
                 failed_count += 1
                 error_content = e.content.decode("utf-8") if e.content else str(e)
                 results.append({"url": url, "status": "failed", "error": error_content[:300]})
-                log(f"    ✗ 提交失败: {url} - HTTP {e.resp.status}: {error_content[:100]}")
+                log(f"    ✗ 提交失败: {url} - HTTP {e.resp.status}: {error_content[:200]}")
+                log(f"      常见原因: 1) Indexing API未在Google Cloud Console启用 2) Service Account未在GSC设为所有者 3) 配额超限")
             except Exception as e:
                 failed_count += 1
                 results.append({"url": url, "status": "failed", "error": str(e)[:300]})
@@ -352,6 +353,7 @@ def main():
     
     # 2. 构建API服务
     log("正在构建Google API服务...")
+    log("注意: Indexing API需要: 1) 在Google Cloud Console启用Indexing API 2) Service Account在GSC中设为'所有者' 3) 每天配额200个URL")
     searchconsole_service = build("searchconsole", "v1", credentials=credentials)
     indexing_service = build("indexing", "v3", credentials=credentials)
     log("API服务构建成功")
