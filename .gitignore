@@ -1,11 +1,10 @@
 .env
 node_modules
 dist
-data
-reports
 *.log
 service-account*.json
 google-credentials*.json
 tmp
 sites.config.json
 *.DS_Store
+# reports/ and data/ are intentionally tracked for persistence
