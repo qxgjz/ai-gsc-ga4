@@ -1,0 +1,559 @@
+{
+  "siteId": "aitoolcrux",
+  "startDate": "2026-08-15",
+  "endDate": "2026-09-13",
+  "generatedAt": "2026-09-16T08:05:59.723Z",
+  "summary": {
+    "totalClicks": 5,
+    "totalImpressions": 1046,
+    "averageCtr": 0.004780114722753346,
+    "averagePosition": 23.488527724665392,
+    "organicSessions": 7,
+    "keyEvents": 0
+  },
+  "trend": {
+    "previousStartDate": "2026-07-16",
+    "previousEndDate": "2026-08-14",
+    "totalClicks": {
+      "current": 5,
+      "previous": 0,
+      "delta": 5,
+      "changeRate": null
+    },
+    "totalImpressions": {
+      "current": 1046,
+      "previous": 0,
+      "delta": 1046,
+      "changeRate": null
+    },
+    "averageCtr": {
+      "current": 0.004780114722753346,
+      "previous": 0,
+      "delta": 0.004780114722753346,
+      "changeRate": null
+    },
+    "averagePosition": {
+      "current": 23.488527724665392,
+      "previous": 0,
+      "delta": 23.488527724665392,
+      "changeRate": null
+    },
+    "organicSessions": {
+      "current": 7,
+      "previous": 0,
+      "delta": 7,
+      "changeRate": null
+    },
+    "keyEvents": {
+      "current": 0,
+      "previous": 0,
+      "delta": 0,
+      "changeRate": null
+    }
+  },
+  "breakdowns": {
+    "topQueries": [
+      {
+        "key": "ai tool comparison",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 74.4
+      },
+      {
+        "key": "pr agent",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 79.91666666666667
+      },
+      {
+        "key": "ai agent",
+        "clicks": 0,
+        "impressions": 9,
+        "ctr": 0,
+        "position": 94.33333333333333
+      },
+      {
+        "key": "ai agent tools",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 81.75
+      },
+      {
+        "key": "ai comparison tools",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 69
+      },
+      {
+        "key": "priompt",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 8.875
+      },
+      {
+        "key": "ai observability tools",
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 83.57142857142857
+      },
+      {
+        "key": "ai tool compare",
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 67.57142857142857
+      },
+      {
+        "key": "\"plandex.ai\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 1.3333333333333333
+      },
+      {
+        "key": "\"windsurf\" \"ai\" \"codeium\" \"ide\" \"coding\" -\"jacket\" -\"kite\" -\"ski\" -\"skiing\" -\"surf\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 4
+      },
+      {
+        "key": "ai agent tools for brands",
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 82.83333333333333
+      },
+      {
+        "key": "ai automation agent",
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 78.6
+      },
+      {
+        "key": "ai comparison tool",
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 74.4
+      },
+      {
+        "key": "autochain",
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 21
+      },
+      {
+        "key": "autopr",
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 6.8
+      },
+      {
+        "key": "\"roo code\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 8.75
+      },
+      {
+        "key": "ai productivity platforms with shared prompt libraries",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 85
+      },
+      {
+        "key": "ai tool review",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 78
+      },
+      {
+        "key": "creatium coach",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 9.25
+      },
+      {
+        "key": "txtai",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 2
+      }
+    ],
+    "topPages": [
+      {
+        "key": "https://www.aitoolcrux.com/compare",
+        "clicks": 2,
+        "impressions": 160,
+        "ctr": 0.0125,
+        "position": 28.1625
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/openai_astra_review",
+        "clicks": 1,
+        "impressions": 100,
+        "ctr": 0.01,
+        "position": 11.65
+      },
+      {
+        "key": "https://www.aitoolcrux.com/category/agent",
+        "clicks": 0,
+        "impressions": 61,
+        "ctr": 0,
+        "position": 83.49180327868852
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/gemini_38_flash_review",
+        "clicks": 0,
+        "impressions": 39,
+        "ctr": 0,
+        "position": 7.564102564102564
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/cursor_ai_review",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 6.842105263157895
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/dify_ai_review",
+        "clicks": 0,
+        "impressions": 35,
+        "ctr": 0,
+        "position": 5.628571428571429
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/stable-diffusion-review-2026",
+        "clicks": 0,
+        "impressions": 34,
+        "ctr": 0,
+        "position": 5.382352941176471
+      },
+      {
+        "key": "https://www.aitoolcrux.com/category/code",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 21.1875
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/suno-review-2026",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 11.08695652173913
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/article-api-20260904-215236-midjourney-v7-review-2026-is-it-still-the-best-ai-image-generator-md",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 7.2727272727272725
+      },
+      {
+        "key": "https://www.aitoolcrux.com/category/observability",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 79.5
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/article-api-20260904-214749-creatium-coach-review-2025-an-honest-look-at-this-ai-business-coaching-tool-md",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 10.368421052631579
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/synthesia-review-2026",
+        "clicks": 0,
+        "impressions": 17,
+        "ctr": 0,
+        "position": 9.058823529411764
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/chatgpt-deep-review-2026",
+        "clicks": 0,
+        "impressions": 16,
+        "ctr": 0,
+        "position": 7.8125
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/chatgpt-vs-claude-2026-comparison",
+        "clicks": 0,
+        "impressions": 15,
+        "ctr": 0,
+        "position": 8.466666666666667
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/claude_fable_51_review",
+        "clicks": 0,
+        "impressions": 14,
+        "ctr": 0,
+        "position": 9.785714285714286
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/leonardo-ai-review-2026",
+        "clicks": 0,
+        "impressions": 14,
+        "ctr": 0,
+        "position": 25.142857142857142
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/article-api-20260903-173210-elevenlabs-review-2026-is-it-still-the-most-human-like-ai-voice-generator-md",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 10.153846153846153
+      },
+      {
+        "key": "https://www.aitoolcrux.com/category/audio",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 14.76923076923077
+      },
+      {
+        "key": "https://www.aitoolcrux.com/category/productivity",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 34.53846153846154
+      }
+    ],
+    "topCountries": [
+      {
+        "key": "usa",
+        "clicks": 2,
+        "impressions": 576,
+        "ctr": 0.003472222222222222,
+        "position": 21.69965277777778
+      },
+      {
+        "key": "ind",
+        "clicks": 0,
+        "impressions": 60,
+        "ctr": 0,
+        "position": 34.88333333333333
+      },
+      {
+        "key": "bra",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 13.025
+      },
+      {
+        "key": "gbr",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 28
+      },
+      {
+        "key": "are",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 22.09090909090909
+      },
+      {
+        "key": "aus",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 63.095238095238095
+      },
+      {
+        "key": "chn",
+        "clicks": 1,
+        "impressions": 17,
+        "ctr": 0.058823529411764705,
+        "position": 5.529411764705882
+      },
+      {
+        "key": "kor",
+        "clicks": 0,
+        "impressions": 17,
+        "ctr": 0,
+        "position": 9.941176470588236
+      },
+      {
+        "key": "can",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 27.46153846153846
+      },
+      {
+        "key": "vnm",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 6.846153846153846
+      },
+      {
+        "key": "fra",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 44.083333333333336
+      },
+      {
+        "key": "mex",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 10.5
+      },
+      {
+        "key": "phl",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 18.083333333333332
+      },
+      {
+        "key": "pak",
+        "clicks": 0,
+        "impressions": 11,
+        "ctr": 0,
+        "position": 42.81818181818182
+      },
+      {
+        "key": "jpn",
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 6.5
+      },
+      {
+        "key": "nld",
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "key": "tha",
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 84.8
+      },
+      {
+        "key": "col",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "key": "idn",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 16
+      },
+      {
+        "key": "deu",
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 17.142857142857142
+      }
+    ],
+    "topDevices": [
+      {
+        "key": "DESKTOP",
+        "clicks": 4,
+        "impressions": 933,
+        "ctr": 0.004287245444801715,
+        "position": 23.755627009646304
+      },
+      {
+        "key": "MOBILE",
+        "clicks": 1,
+        "impressions": 112,
+        "ctr": 0.008928571428571428,
+        "position": 21.303571428571427
+      },
+      {
+        "key": "TABLET",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 19
+      }
+    ],
+    "queryClusters": [
+      {
+        "key": "ai",
+        "clicks": 0,
+        "impressions": 212,
+        "ctr": 0,
+        "position": 64.9622641509434
+      },
+      {
+        "key": "other",
+        "clicks": 0,
+        "impressions": 110,
+        "ctr": 0,
+        "position": 43.41818181818182
+      }
+    ],
+    "topLandingPages": [
+      {
+        "landingPage": "/blog/dify_ai_review",
+        "sessions": 2,
+        "engagedSessions": 2,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/compare",
+        "sessions": 2,
+        "engagedSessions": 2,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/blog/windsurf-review-2026",
+        "sessions": 1,
+        "engagedSessions": 1,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/category/writing",
+        "sessions": 1,
+        "engagedSessions": 1,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/tools/ailice",
+        "sessions": 1,
+        "engagedSessions": 1,
+        "engagementRate": 1,
+        "keyEvents": 0
+      }
+    ]
+  },
+  "opportunities": []
+}
