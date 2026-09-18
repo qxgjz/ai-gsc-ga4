@@ -1,0 +1,56 @@
+{
+  "siteId": "aitoolcrux",
+  "propertyId": "552513639",
+  "startDate": "2026-08-17",
+  "endDate": "2026-09-15",
+  "rows": [
+    {
+      "landingPage": "/blog/dify_ai_review",
+      "sessions": 2,
+      "engagedSessions": 2,
+      "engagementRate": 1,
+      "keyEvents": 0,
+      "conversionsByEvent": {}
+    },
+    {
+      "landingPage": "/compare",
+      "sessions": 2,
+      "engagedSessions": 2,
+      "engagementRate": 1,
+      "keyEvents": 0,
+      "conversionsByEvent": {}
+    },
+    {
+      "landingPage": "/blog/windsurf-review-2026",
+      "sessions": 1,
+      "engagedSessions": 1,
+      "engagementRate": 1,
+      "keyEvents": 0,
+      "conversionsByEvent": {}
+    },
+    {
+      "landingPage": "/category/writing",
+      "sessions": 1,
+      "engagedSessions": 1,
+      "engagementRate": 1,
+      "keyEvents": 0,
+      "conversionsByEvent": {}
+    },
+    {
+      "landingPage": "/tools/ailice",
+      "sessions": 1,
+      "engagedSessions": 1,
+      "engagementRate": 1,
+      "keyEvents": 0,
+      "conversionsByEvent": {}
+    },
+    {
+      "landingPage": "/tools/wrenai",
+      "sessions": 1,
+      "engagedSessions": 1,
+      "engagementRate": 1,
+      "keyEvents": 0,
+      "conversionsByEvent": {}
+    }
+  ]
+}
