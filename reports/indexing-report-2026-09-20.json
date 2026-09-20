@@ -1,0 +1,4472 @@
+{
+  "reportType": "gsc-indexing-check",
+  "generatedAt": "2026-09-20T07:52:12.691111Z",
+  "siteUrl": "https://www.aitoolcrux.com/",
+  "sitemapUrl": "https://www.aitoolcrux.com/sitemap.xml",
+  "durationSeconds": 1428.78,
+  "summary": {
+    "totalUrlsInSitemap": 764,
+    "urlsCheckedThisRun": 200,
+    "urlsSkippedDueToLimit": 564,
+    "indexedPass": 107,
+    "notIndexedFail": 0,
+    "neutral": 93,
+    "errors": 0,
+    "unknown": 0,
+    "urlsSubmittedForIndexing": 93,
+    "indexingSubmissionsFailed": 0
+  },
+  "inspectionResults": [
+    {
+      "url": "https://www.aitoolcrux.com/",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-16T03:54:51Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/",
+      "userCanonical": "https://www.aitoolcrux.com/",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap",
+        "https://www.aitoolcrux.com/free-ai-tools-guide",
+        "https://www.aitoolcrux.com/compare",
+        "https://www.aitoolcrux.com/blog/tag/ai-presentation-tools",
+        "https://www.aitoolcrux.com/blog/category/developer-tools",
+        "https://www.aitoolcrux.com/blog/tag/research-tools",
+        "https://www.aitoolcrux.com/blog/category/chat",
+        "https://www.aitoolcrux.com/blog/tag/comparison-review",
+        "https://www.aitoolcrux.com/blog/tag/midjourney",
+        "https://www.aitoolcrux.com/blog/tag/ai-art"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/ranking",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:21:49Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/ranking",
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/openai-python",
+        "https://www.aitoolcrux.com/blog/ai-coding-tools-comparison-2026"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/compare",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T16:23:10Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/compare",
+      "userCanonical": "https://www.aitoolcrux.com/",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/maestro",
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/free-ai-tools-guide",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T16:00:17Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/free-ai-tools-guide",
+      "userCanonical": "https://www.aitoolcrux.com/",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code",
+        "https://www.aitoolcrux.com/"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/generator",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/blog",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/openai-python",
+        "https://www.aitoolcrux.com/"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/authors",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/about",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T15:55:17Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/about",
+      "userCanonical": "https://www.aitoolcrux.com/about",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/openai-python",
+        "https://www.aitoolcrux.com/"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/contact",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T18:27:00Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.747live.bet/",
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/kodus-ai",
+        "https://www.aitoolcrux.com/blog/tag/microsoft"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/disclosure",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T16:33:07Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/disclosure",
+      "userCanonical": "https://www.aitoolcrux.com/disclosure",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/privacy",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T15:41:05Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/privacy",
+      "userCanonical": "https://www.aitoolcrux.com/privacy",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/github-copilot-review-2026",
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/terms",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-11T16:03:59Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/terms",
+      "userCanonical": "https://www.aitoolcrux.com/",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/methodology",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-15T15:22:28Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/methodology",
+      "userCanonical": "https://www.aitoolcrux.com/methodology",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/best-ai-research-tools-2026",
+        "https://www.aitoolcrux.com/blog/cursor-ai-review-2026-best-ai-code-editor"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/ai-policy",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-12T04:21:10Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/ai-policy",
+      "userCanonical": "https://www.aitoolcrux.com/ai-policy",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/alternatives",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatgpt",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:54:49Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/chatgpt",
+      "userCanonical": "https://www.aitoolcrux.com/tools/chatgpt",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/chat"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/claude",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gemini",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/chat"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/midjourney",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T15:04:22Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/midjourney",
+      "userCanonical": "https://www.aitoolcrux.com/tools/midjourney",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/article-api-20260904-215236-midjourney-v7-review-2026-is-it-still-the-best-ai-image-generator-md"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/dall-e-3",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:06:25Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/dall-e-3",
+      "userCanonical": "https://www.aitoolcrux.com/tools/dall-e-3",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/midjourney"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/stable-diffusion",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:46:25Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/stable-diffusion",
+      "userCanonical": "https://www.aitoolcrux.com/tools/stable-diffusion",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/midjourney"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/github-copilot",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:38:27Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/github-copilot",
+      "userCanonical": "https://www.aitoolcrux.com/tools/github-copilot",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/cursor",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T16:54:47Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/cursor",
+      "userCanonical": "https://www.aitoolcrux.com/tools/cursor",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/github-copilot",
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/windsurf",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:16:37Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/windsurf",
+      "userCanonical": "https://www.aitoolcrux.com/tools/windsurf",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/jasper",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:35:01Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/jasper",
+      "userCanonical": "https://www.aitoolcrux.com/tools/jasper",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/writing"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/copy-ai",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:00:04Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/copy-ai",
+      "userCanonical": "https://www.aitoolcrux.com/tools/copy-ai",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/writesonic-review-2026"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/notion-ai",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:14:32Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/notion-ai",
+      "userCanonical": "https://www.aitoolcrux.com/tools/notion-ai",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/ai-tools-review-guide-2026",
+        "https://www.aitoolcrux.com/compare"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/grammarly",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:52:26Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/grammarly",
+      "userCanonical": "https://www.aitoolcrux.com/tools/grammarly",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/notion-ai-review-2026"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/runway",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T18:38:08Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/runway",
+      "userCanonical": "https://www.aitoolcrux.com/tools/runway",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/pika-review-2026"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/sora",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:48:06Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/sora",
+      "userCanonical": "https://www.aitoolcrux.com/tools/sora",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/video"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/elevenlabs",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:57:15Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/elevenlabs",
+      "userCanonical": "https://www.aitoolcrux.com/tools/elevenlabs",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/compare"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/perplexity",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:28:05Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/perplexity",
+      "userCanonical": "https://www.aitoolcrux.com/tools/perplexity",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/compare"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/figma-ai",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:26:41Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/figma-ai",
+      "userCanonical": "https://www.aitoolcrux.com/tools/figma-ai",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/canva-magic",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:06:30Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/canva-magic",
+      "userCanonical": "https://www.aitoolcrux.com/tools/canva-magic",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/figma-ai-review-2026"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/suno",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/n8n",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:40:14Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/n8n",
+      "userCanonical": "https://www.aitoolcrux.com/tools/n8n",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/langwatch"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/auto-gpt",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:34:30Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/auto-gpt",
+      "userCanonical": "https://www.aitoolcrux.com/tools/auto-gpt",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ollama",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:44:22Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/ollama",
+      "userCanonical": "https://www.aitoolcrux.com/tools/ollama",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/openai-python"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/dify",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/article-api-20260904-215037-elevenlabs-v2-review-2026-3-weeks-of-testing-the-ai-voice-platform-md"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-cpp",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/openai-python"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gemini-cli",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T14:48:44Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/gemini-cli",
+      "userCanonical": "https://www.aitoolcrux.com/tools/gemini-cli",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/open-webui",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/vllm",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/claude-code",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:34:05Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/claude-code",
+      "userCanonical": "https://www.aitoolcrux.com/tools/claude-code",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/browser-use",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:33:27Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/browser-use",
+      "userCanonical": "https://www.aitoolcrux.com/tools/browser-use",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/langwatch"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/lobe-chat",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/chatgpt",
+        "https://www.aitoolcrux.com/category/chat"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langflow",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openhands",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:22:26Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/openhands",
+      "userCanonical": "https://www.aitoolcrux.com/tools/openhands",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/codex",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T16:51:29Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/codex",
+      "userCanonical": "https://www.aitoolcrux.com/tools/codex",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/replit-ai",
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mineru",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:03:56Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/mineru",
+      "userCanonical": "https://www.aitoolcrux.com/tools/mineru",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchain",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/cherry-studio"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/docling",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:32:25Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/docling",
+      "userCanonical": "https://www.aitoolcrux.com/tools/docling",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-index",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:30:12Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/llama-index",
+      "userCanonical": "https://www.aitoolcrux.com/tools/llama-index",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/llm-app",
+        "https://www.aitoolcrux.com/tools/cherry-studio"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/worldmonitor",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:08:59Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/worldmonitor",
+      "userCanonical": "https://www.aitoolcrux.com/tools/worldmonitor",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/repomix"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/crewai",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/langchain"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/milvus",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:26:28Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/milvus",
+      "userCanonical": "https://www.aitoolcrux.com/tools/milvus",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/database"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ragflow",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:19:16Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/ragflow",
+      "userCanonical": "https://www.aitoolcrux.com/tools/ragflow",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/cherry-studio",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/microsoft-365-copilot-review-2026"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ray",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T16:48:32Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/ray",
+      "userCanonical": "https://www.aitoolcrux.com/tools/ray",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/jan",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:41:23Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/jan",
+      "userCanonical": "https://www.aitoolcrux.com/tools/jan",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/repomix"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/litellm",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:30:34Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/litellm",
+      "userCanonical": "https://www.aitoolcrux.com/tools/litellm",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/unsloth",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/best-ai-podcast-tools-2026",
+        "https://www.aitoolcrux.com/category/audio"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/text-generation-webui",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/firecrawl",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/fabric",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/maestro",
+        "https://www.aitoolcrux.com/tools/cherry-studio"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/phidata",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/temporal",
+        "https://www.aitoolcrux.com/tools/cherry-studio"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/goose",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T16:49:59Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/goose",
+      "userCanonical": "https://www.aitoolcrux.com/tools/goose",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mem0",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:43:29Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/mem0",
+      "userCanonical": "https://www.aitoolcrux.com/tools/mem0",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/librechat",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/chat"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/anything-llm",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:30:51Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/anything-llm",
+      "userCanonical": "https://www.aitoolcrux.com/tools/anything-llm",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/microsoft-365-copilot-review-2026"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/continue",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:07:54Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/continue",
+      "userCanonical": "https://www.aitoolcrux.com/tools/continue",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/copilotkit",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/openai-python"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/flowise",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:05:56Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/flowise",
+      "userCanonical": "https://www.aitoolcrux.com/tools/flowise",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/crawl4ai",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:47:19Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/crawl4ai",
+      "userCanonical": "https://www.aitoolcrux.com/tools/crawl4ai",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/repomix"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/composio",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:29:17Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/composio",
+      "userCanonical": "https://www.aitoolcrux.com/tools/composio",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openai-python",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pydantic",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/openai-python"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/semantic-kernel",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/cherry-studio"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-factory",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:39:54Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/llama-factory",
+      "userCanonical": "https://www.aitoolcrux.com/tools/llama-factory",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/repomix"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chroma",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langgraph",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openai-translator",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:45:25Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/openai-translator",
+      "userCanonical": "https://www.aitoolcrux.com/tools/openai-translator",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/haystack",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-framework",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langfuse",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:34:40Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/langfuse",
+      "userCanonical": "https://www.aitoolcrux.com/tools/langfuse",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/observability"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ai",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/repomix",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T16:57:41Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/repomix",
+      "userCanonical": "https://www.aitoolcrux.com/tools/repomix",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/article-api-20260903-171438-creatium-coach-review-2025-is-this-ai-content-coach-worth-your-time-md"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mastra",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/faiss",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T18:37:19Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/faiss",
+      "userCanonical": "https://www.aitoolcrux.com/tools/faiss",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/database"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/python-sdk",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/dev-tools",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/dspy",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/servers",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/prefect",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/scrapegraph-ai",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:36:36Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/scrapegraph-ai",
+      "userCanonical": "https://www.aitoolcrux.com/tools/scrapegraph-ai",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/markitdown",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/autogen",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-framework",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agentscope",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:45:28Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/agentscope",
+      "userCanonical": "https://www.aitoolcrux.com/tools/agentscope",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/repomix"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatbox",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/chat"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/skyvern",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:30:26Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/skyvern",
+      "userCanonical": "https://www.aitoolcrux.com/tools/skyvern",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/qdrant",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:26:38Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/qdrant",
+      "userCanonical": "https://www.aitoolcrux.com/tools/qdrant",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/database"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/tradingagents",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/temporal",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-framework",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/promptfoo",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/llm-app"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/whisperx",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/opik",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/roo-code",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:10:48Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/roo-code",
+      "userCanonical": "https://www.aitoolcrux.com/tools/roo-code",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchainjs",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-framework",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/windmill",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T18:30:20Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/windmill",
+      "userCanonical": "https://www.aitoolcrux.com/tools/windmill",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/weaviate",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:27:57Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/weaviate",
+      "userCanonical": "https://www.aitoolcrux.com/tools/weaviate",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/database"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/camel",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-framework",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pydantic-ai",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:06:23Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/pydantic-ai",
+      "userCanonical": "https://www.aitoolcrux.com/tools/pydantic-ai",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/olmocr",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatdev",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/unstructured",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:23:03Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/unstructured",
+      "userCanonical": "https://www.aitoolcrux.com/tools/unstructured",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/letta",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:54:14Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/letta",
+      "userCanonical": "https://www.aitoolcrux.com/tools/letta",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/dify_ai_review"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/typescript-sdk",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/a2a",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chainlit",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:12:55Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/chainlit",
+      "userCanonical": "https://www.aitoolcrux.com/tools/chainlit",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/buzz",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/open-notebook",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:30:14Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/open-notebook",
+      "userCanonical": "https://www.aitoolcrux.com/tools/open-notebook",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/e2b",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:06:38Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/e2b",
+      "userCanonical": "https://www.aitoolcrux.com/tools/e2b",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gpt-researcher",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/sitemap"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/tensorzero",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:26:48Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/tensorzero",
+      "userCanonical": "https://www.aitoolcrux.com/tools/tensorzero",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/tools/gemini-cli"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/peft",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pipecat",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:42:11Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/pipecat",
+      "userCanonical": "https://www.aitoolcrux.com/tools/pipecat",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/audio"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agency-agents",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:09:33Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/agency-agents",
+      "userCanonical": "https://www.aitoolcrux.com/tools/agency-agents",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/db-gpt",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/eino",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/autoresearch",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:51:23Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/autoresearch",
+      "userCanonical": "https://www.aitoolcrux.com/tools/autoresearch",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/audio"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gstack",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:33:56Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/gstack",
+      "userCanonical": "https://www.aitoolcrux.com/tools/gstack",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/deer-flow",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/wrenai",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:07:25Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/wrenai",
+      "userCanonical": "https://www.aitoolcrux.com/tools/wrenai",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-cpp-python",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/dev-tools",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/outlines",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:09:20Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/outlines",
+      "userCanonical": "https://www.aitoolcrux.com/tools/outlines",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/txtai",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/phoenix",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/smolagents",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/docsgpt",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:59:30Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/docsgpt",
+      "userCanonical": "https://www.aitoolcrux.com/tools/docsgpt",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-runtime"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/cognee",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:05:32Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/cognee",
+      "userCanonical": "https://www.aitoolcrux.com/tools/cognee",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/tabby",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/guidance",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T15:57:24Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/guidance",
+      "userCanonical": "https://www.aitoolcrux.com/tools/guidance",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llmware",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchain4j",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/deepeval",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/scalene",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:03:36Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/scalene",
+      "userCanonical": "https://www.aitoolcrux.com/tools/scalene",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mcp-go",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/bentoml",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gateway",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:13:30Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/gateway",
+      "userCanonical": "https://www.aitoolcrux.com/tools/gateway",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/axolotl",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:42:08Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/axolotl",
+      "userCanonical": "https://www.aitoolcrux.com/tools/axolotl",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gpt-computer-assistant",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-framework"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openllmetry",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:26:10Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/openllmetry",
+      "userCanonical": "https://www.aitoolcrux.com/tools/openllmetry",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/screenshot-to-code",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:31:01Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/screenshot-to-code",
+      "userCanonical": "https://www.aitoolcrux.com/tools/screenshot-to-code",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/voltagent",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:25:10Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/voltagent",
+      "userCanonical": "https://www.aitoolcrux.com/tools/voltagent",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/instructor",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:29:43Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/instructor",
+      "userCanonical": "https://www.aitoolcrux.com/tools/instructor",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/praisonai",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:02:20Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/praisonai",
+      "userCanonical": "https://www.aitoolcrux.com/tools/praisonai",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/guardrails",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:41:59Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/guardrails",
+      "userCanonical": "https://www.aitoolcrux.com/tools/guardrails",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/aider",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/figma-ai-review-2026",
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/oumi",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:35:06Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/oumi",
+      "userCanonical": "https://www.aitoolcrux.com/tools/oumi",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/whodb",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:29:51Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/whodb",
+      "userCanonical": "https://www.aitoolcrux.com/tools/whodb",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pr-agent",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:02:24Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/pr-agent",
+      "userCanonical": "https://www.aitoolcrux.com/tools/pr-agent",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/dify_ai_review"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chat-ui",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mlc-llm",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [],
+      "referringUrls": [],
+      "crawledAs": null
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agency-swarm",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/manifest",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:10:16Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/manifest",
+      "userCanonical": "https://www.aitoolcrux.com/tools/manifest",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agenta",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:04:09Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/agenta",
+      "userCanonical": "https://www.aitoolcrux.com/tools/agenta",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/dify_ai_review"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/inspector",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:37:37Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/inspector",
+      "userCanonical": "https://www.aitoolcrux.com/tools/inspector",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/casibase",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:58:19Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/casibase",
+      "userCanonical": "https://www.aitoolcrux.com/tools/casibase",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-runtime"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatgpt-shortcut",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/steel-browser",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llm",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langroid",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:47:22Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/langroid",
+      "userCanonical": "https://www.aitoolcrux.com/tools/langroid",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/audio"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/text-generation-inference",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/bifrost",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T22:34:34Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/bifrost",
+      "userCanonical": "https://www.aitoolcrux.com/tools/bifrost",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/specification",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/dev-tools"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langwatch",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:20:59Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/langwatch",
+      "userCanonical": "https://www.aitoolcrux.com/tools/langwatch",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/article-api-20260904-215037-elevenlabs-v2-review-2026-3-weeks-of-testing-the-ai-voice-platform-md"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/private-gpt",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/bitnet",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/vanna",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-08T08:36:26Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/vanna",
+      "userCanonical": "https://www.aitoolcrux.com/tools/vanna",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ufo",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/swe-agent",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T17:25:21Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/swe-agent",
+      "userCanonical": "https://www.aitoolcrux.com/tools/swe-agent",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/code"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langgraphjs",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ragas",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/generative-ai",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/gemini-review-2026"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/nemo-guardrails",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/dev-tools"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/happy",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:43:38Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/happy",
+      "userCanonical": "https://www.aitoolcrux.com/tools/happy",
+      "sitemap": [],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/audio"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/griptape",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-framework",
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openlit",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:48:48Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/openlit",
+      "userCanonical": "https://www.aitoolcrux.com/tools/openlit",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-runtime"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/botpress",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ai-chatbot",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/skills",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/open-interpreter",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/harbor",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T21:38:01Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/harbor",
+      "userCanonical": "https://www.aitoolcrux.com/tools/harbor",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/code-interpreter",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/dev-tools"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/claude-code-router",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:37:12Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/claude-code-router",
+      "userCanonical": "https://www.aitoolcrux.com/tools/claude-code-router",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/blog/claude-review-2026"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/jupyter-ai",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/finrobot",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-12T11:23:35Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/finrobot",
+      "userCanonical": "https://www.aitoolcrux.com/tools/finrobot",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/agent-runtime"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ludwig",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T20:33:59Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/ludwig",
+      "userCanonical": "https://www.aitoolcrux.com/tools/ludwig",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/productivity"
+      ],
+      "crawledAs": "MOBILE"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agixt",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/notte",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/toolhive",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+      "indexingState": "INDEXING_STATE_UNSPECIFIED",
+      "lastCrawlTime": null,
+      "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+      "googleCanonical": null,
+      "userCanonical": null,
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/ranking"
+      ],
+      "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/index-tts",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "robotsTxtState": "ALLOWED",
+      "indexingState": "INDEXING_ALLOWED",
+      "lastCrawlTime": "2026-09-07T19:57:48Z",
+      "pageFetchState": "SUCCESSFUL",
+      "googleCanonical": "https://www.aitoolcrux.com/tools/index-tts",
+      "userCanonical": "https://www.aitoolcrux.com/tools/index-tts",
+      "sitemap": [
+        "https://www.aitoolcrux.com/sitemap.xml"
+      ],
+      "referringUrls": [
+        "https://www.aitoolcrux.com/category/audio"
+      ],
+      "crawledAs": "MOBILE"
+    }
+  ],
+  "indexingResults": [
+    {
+      "url": "https://www.aitoolcrux.com/generator",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/generator"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/blog",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/blog"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/authors",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/authors"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/contact",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/contact"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/alternatives",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/alternatives"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/claude",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/claude"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gemini",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/gemini"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/suno",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/suno"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/dify",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/dify"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-cpp",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/llama-cpp"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/open-webui",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/open-webui"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/vllm",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/vllm"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/lobe-chat",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/lobe-chat"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langflow",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/langflow"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchain",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/langchain"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/crewai",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/crewai"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/cherry-studio",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/cherry-studio"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/unsloth",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/unsloth"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/text-generation-webui",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/text-generation-webui"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/firecrawl",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/firecrawl"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/fabric",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/fabric"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/phidata",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/phidata"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/librechat",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/librechat"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/copilotkit",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/copilotkit"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openai-python",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/openai-python"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pydantic",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/pydantic"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/semantic-kernel",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/semantic-kernel"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chroma",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/chroma"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langgraph",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/langgraph"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/haystack",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/haystack"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ai",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/ai"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mastra",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/mastra"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/python-sdk",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/python-sdk"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/dspy",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/dspy"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/servers",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/servers"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/prefect",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/prefect"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/markitdown",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/markitdown"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/autogen",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/autogen"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatbox",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/chatbox"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/tradingagents",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/tradingagents"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/temporal",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/temporal"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/promptfoo",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/promptfoo"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/whisperx",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/whisperx"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/opik",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/opik"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchainjs",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/langchainjs"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/camel",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/camel"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/olmocr",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/olmocr"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatdev",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/chatdev"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/typescript-sdk",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/typescript-sdk"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/a2a",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/a2a"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/buzz",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/buzz"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gpt-researcher",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/gpt-researcher"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/peft",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/peft"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/db-gpt",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/db-gpt"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/eino",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/eino"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/deer-flow",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/deer-flow"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-cpp-python",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/llama-cpp-python"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/txtai",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/txtai"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/phoenix",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/phoenix"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/smolagents",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/smolagents"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/tabby",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/tabby"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llmware",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/llmware"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchain4j",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/langchain4j"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/deepeval",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/deepeval"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mcp-go",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/mcp-go"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/bentoml",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/bentoml"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gpt-computer-assistant",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/gpt-computer-assistant"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/aider",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/aider"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chat-ui",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/chat-ui"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mlc-llm",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/mlc-llm"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agency-swarm",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/agency-swarm"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatgpt-shortcut",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/chatgpt-shortcut"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/steel-browser",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/steel-browser"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llm",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/llm"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/text-generation-inference",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/text-generation-inference"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/specification",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/specification"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/private-gpt",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/private-gpt"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/bitnet",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/bitnet"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ufo",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/ufo"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langgraphjs",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/langgraphjs"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ragas",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/ragas"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/generative-ai",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/generative-ai"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/nemo-guardrails",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/nemo-guardrails"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/griptape",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/griptape"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/botpress",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/botpress"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ai-chatbot",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/ai-chatbot"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/skills",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/skills"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/open-interpreter",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/open-interpreter"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/code-interpreter",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/code-interpreter"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/jupyter-ai",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/jupyter-ai"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agixt",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/agixt"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/notte",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/notte"
+        }
+      }
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/toolhive",
+      "status": "success",
+      "response": {
+        "urlNotificationMetadata": {
+          "url": "https://www.aitoolcrux.com/tools/toolhive"
+        }
+      }
+    }
+  ],
+  "urlsNotIndexed": [
+    "https://www.aitoolcrux.com/generator",
+    "https://www.aitoolcrux.com/blog",
+    "https://www.aitoolcrux.com/authors",
+    "https://www.aitoolcrux.com/contact",
+    "https://www.aitoolcrux.com/alternatives",
+    "https://www.aitoolcrux.com/tools/claude",
+    "https://www.aitoolcrux.com/tools/gemini",
+    "https://www.aitoolcrux.com/tools/suno",
+    "https://www.aitoolcrux.com/tools/dify",
+    "https://www.aitoolcrux.com/tools/llama-cpp",
+    "https://www.aitoolcrux.com/tools/open-webui",
+    "https://www.aitoolcrux.com/tools/vllm",
+    "https://www.aitoolcrux.com/tools/lobe-chat",
+    "https://www.aitoolcrux.com/tools/langflow",
+    "https://www.aitoolcrux.com/tools/langchain",
+    "https://www.aitoolcrux.com/tools/crewai",
+    "https://www.aitoolcrux.com/tools/cherry-studio",
+    "https://www.aitoolcrux.com/tools/unsloth",
+    "https://www.aitoolcrux.com/tools/text-generation-webui",
+    "https://www.aitoolcrux.com/tools/firecrawl",
+    "https://www.aitoolcrux.com/tools/fabric",
+    "https://www.aitoolcrux.com/tools/phidata",
+    "https://www.aitoolcrux.com/tools/librechat",
+    "https://www.aitoolcrux.com/tools/copilotkit",
+    "https://www.aitoolcrux.com/tools/openai-python",
+    "https://www.aitoolcrux.com/tools/pydantic",
+    "https://www.aitoolcrux.com/tools/semantic-kernel",
+    "https://www.aitoolcrux.com/tools/chroma",
+    "https://www.aitoolcrux.com/tools/langgraph",
+    "https://www.aitoolcrux.com/tools/haystack",
+    "https://www.aitoolcrux.com/tools/ai",
+    "https://www.aitoolcrux.com/tools/mastra",
+    "https://www.aitoolcrux.com/tools/python-sdk",
+    "https://www.aitoolcrux.com/tools/dspy",
+    "https://www.aitoolcrux.com/tools/servers",
+    "https://www.aitoolcrux.com/tools/prefect",
+    "https://www.aitoolcrux.com/tools/markitdown",
+    "https://www.aitoolcrux.com/tools/autogen",
+    "https://www.aitoolcrux.com/tools/chatbox",
+    "https://www.aitoolcrux.com/tools/tradingagents",
+    "https://www.aitoolcrux.com/tools/temporal",
+    "https://www.aitoolcrux.com/tools/promptfoo",
+    "https://www.aitoolcrux.com/tools/whisperx",
+    "https://www.aitoolcrux.com/tools/opik",
+    "https://www.aitoolcrux.com/tools/langchainjs",
+    "https://www.aitoolcrux.com/tools/camel",
+    "https://www.aitoolcrux.com/tools/olmocr",
+    "https://www.aitoolcrux.com/tools/chatdev",
+    "https://www.aitoolcrux.com/tools/typescript-sdk",
+    "https://www.aitoolcrux.com/tools/a2a",
+    "https://www.aitoolcrux.com/tools/buzz",
+    "https://www.aitoolcrux.com/tools/gpt-researcher",
+    "https://www.aitoolcrux.com/tools/peft",
+    "https://www.aitoolcrux.com/tools/db-gpt",
+    "https://www.aitoolcrux.com/tools/eino",
+    "https://www.aitoolcrux.com/tools/deer-flow",
+    "https://www.aitoolcrux.com/tools/llama-cpp-python",
+    "https://www.aitoolcrux.com/tools/txtai",
+    "https://www.aitoolcrux.com/tools/phoenix",
+    "https://www.aitoolcrux.com/tools/smolagents",
+    "https://www.aitoolcrux.com/tools/tabby",
+    "https://www.aitoolcrux.com/tools/llmware",
+    "https://www.aitoolcrux.com/tools/langchain4j",
+    "https://www.aitoolcrux.com/tools/deepeval",
+    "https://www.aitoolcrux.com/tools/mcp-go",
+    "https://www.aitoolcrux.com/tools/bentoml",
+    "https://www.aitoolcrux.com/tools/gpt-computer-assistant",
+    "https://www.aitoolcrux.com/tools/aider",
+    "https://www.aitoolcrux.com/tools/chat-ui",
+    "https://www.aitoolcrux.com/tools/mlc-llm",
+    "https://www.aitoolcrux.com/tools/agency-swarm",
+    "https://www.aitoolcrux.com/tools/chatgpt-shortcut",
+    "https://www.aitoolcrux.com/tools/steel-browser",
+    "https://www.aitoolcrux.com/tools/llm",
+    "https://www.aitoolcrux.com/tools/text-generation-inference",
+    "https://www.aitoolcrux.com/tools/specification",
+    "https://www.aitoolcrux.com/tools/private-gpt",
+    "https://www.aitoolcrux.com/tools/bitnet",
+    "https://www.aitoolcrux.com/tools/ufo",
+    "https://www.aitoolcrux.com/tools/langgraphjs",
+    "https://www.aitoolcrux.com/tools/ragas",
+    "https://www.aitoolcrux.com/tools/generative-ai",
+    "https://www.aitoolcrux.com/tools/nemo-guardrails",
+    "https://www.aitoolcrux.com/tools/griptape",
+    "https://www.aitoolcrux.com/tools/botpress",
+    "https://www.aitoolcrux.com/tools/ai-chatbot",
+    "https://www.aitoolcrux.com/tools/skills",
+    "https://www.aitoolcrux.com/tools/open-interpreter",
+    "https://www.aitoolcrux.com/tools/code-interpreter",
+    "https://www.aitoolcrux.com/tools/jupyter-ai",
+    "https://www.aitoolcrux.com/tools/agixt",
+    "https://www.aitoolcrux.com/tools/notte",
+    "https://www.aitoolcrux.com/tools/toolhive"
+  ],
+  "configuration": {
+    "maxUrlsPerRun": 200,
+    "indexingBatchSize": 100,
+    "sleepBetweenRequests": 0.5
+  }
+}
