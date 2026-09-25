@@ -1,0 +1,587 @@
+{
+  "siteId": "aitoolcrux",
+  "startDate": "2026-08-24",
+  "endDate": "2026-09-22",
+  "generatedAt": "2026-09-25T08:21:58.109Z",
+  "summary": {
+    "totalClicks": 9,
+    "totalImpressions": 1922,
+    "averageCtr": 0.004682622268470343,
+    "averagePosition": 25.318418314255982,
+    "organicSessions": 13,
+    "keyEvents": 0
+  },
+  "trend": {
+    "previousStartDate": "2026-07-25",
+    "previousEndDate": "2026-08-23",
+    "totalClicks": {
+      "current": 9,
+      "previous": 0,
+      "delta": 9,
+      "changeRate": null
+    },
+    "totalImpressions": {
+      "current": 1922,
+      "previous": 0,
+      "delta": 1922,
+      "changeRate": null
+    },
+    "averageCtr": {
+      "current": 0.004682622268470343,
+      "previous": 0,
+      "delta": 0.004682622268470343,
+      "changeRate": null
+    },
+    "averagePosition": {
+      "current": 25.318418314255982,
+      "previous": 0,
+      "delta": 25.318418314255982,
+      "changeRate": null
+    },
+    "organicSessions": {
+      "current": 13,
+      "previous": 0,
+      "delta": 13,
+      "changeRate": null
+    },
+    "keyEvents": {
+      "current": 0,
+      "previous": 0,
+      "delta": 0,
+      "changeRate": null
+    }
+  },
+  "breakdowns": {
+    "topQueries": [
+      {
+        "key": "ai tool comparison",
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 76.90322580645162
+      },
+      {
+        "key": "pr agent",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 83.47826086956522
+      },
+      {
+        "key": "ai observability tools",
+        "clicks": 0,
+        "impressions": 16,
+        "ctr": 0,
+        "position": 84.0625
+      },
+      {
+        "key": "ai comparison tools",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 71.53846153846153
+      },
+      {
+        "key": "cursor ai review",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 53.61538461538461
+      },
+      {
+        "key": "priompt",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 8.923076923076923
+      },
+      {
+        "key": "ai agent",
+        "clicks": 0,
+        "impressions": 11,
+        "ctr": 0,
+        "position": 94.63636363636364
+      },
+      {
+        "key": "ai agent tools",
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 81.7
+      },
+      {
+        "key": "ai tool compare",
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 68.3
+      },
+      {
+        "key": "autopr",
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "key": "ai compare",
+        "clicks": 0,
+        "impressions": 9,
+        "ctr": 0,
+        "position": 82.88888888888889
+      },
+      {
+        "key": "ai comparison tool",
+        "clicks": 0,
+        "impressions": 9,
+        "ctr": 0,
+        "position": 76.33333333333333
+      },
+      {
+        "key": "ai tools comparison",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 75.5
+      },
+      {
+        "key": "compare ai tools",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 76.875
+      },
+      {
+        "key": "creatium coach",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 8.125
+      },
+      {
+        "key": "ai agent tools for brands",
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 83.14285714285714
+      },
+      {
+        "key": "ai tool review",
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 78.42857142857143
+      },
+      {
+        "key": "autochain",
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 20.571428571428573
+      },
+      {
+        "key": "\"plandex.ai\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 1.3333333333333333
+      },
+      {
+        "key": "\"windsurf\" \"ai\" \"codeium\" \"ide\" \"coding\" -\"jacket\" -\"kite\" -\"ski\" -\"skiing\" -\"surf\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 4
+      }
+    ],
+    "topPages": [
+      {
+        "key": "https://www.aitoolcrux.com/compare",
+        "clicks": 2,
+        "impressions": 258,
+        "ctr": 0.007751937984496124,
+        "position": 34.4031007751938
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/openai_astra_review",
+        "clicks": 1,
+        "impressions": 144,
+        "ctr": 0.006944444444444444,
+        "position": 11.055555555555555
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/gemini_38_flash_review",
+        "clicks": 0,
+        "impressions": 82,
+        "ctr": 0,
+        "position": 9.609756097560975
+      },
+      {
+        "key": "https://www.aitoolcrux.com/category/agent",
+        "clicks": 0,
+        "impressions": 82,
+        "ctr": 0,
+        "position": 82.9390243902439
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/best-ai-voice-changers-2026",
+        "clicks": 2,
+        "impressions": 63,
+        "ctr": 0.031746031746031744,
+        "position": 15.73015873015873
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/stable-diffusion-review-2026",
+        "clicks": 0,
+        "impressions": 51,
+        "ctr": 0,
+        "position": 8.450980392156863
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/dify_ai_review",
+        "clicks": 0,
+        "impressions": 47,
+        "ctr": 0,
+        "position": 5.468085106382978
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/cursor_ai_review",
+        "clicks": 0,
+        "impressions": 46,
+        "ctr": 0,
+        "position": 6.804347826086956
+      },
+      {
+        "key": "https://www.aitoolcrux.com/category/code",
+        "clicks": 0,
+        "impressions": 39,
+        "ctr": 0,
+        "position": 30.46153846153846
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/article-api-20260904-215236-midjourney-v7-review-2026-is-it-still-the-best-ai-image-generator-md",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 6.921052631578948
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/suno-review-2026",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 10.81081081081081
+      },
+      {
+        "key": "https://www.aitoolcrux.com/category/observability",
+        "clicks": 0,
+        "impressions": 34,
+        "ctr": 0,
+        "position": 80.47058823529412
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/adobe-firefly-review-2026",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 6.424242424242424
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/cursor-ai-review-2026-best-ai-code-editor",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 43.8125
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/ai-tools-for-beginners-2026",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 16.166666666666664
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/article-api-20260904-214749-creatium-coach-review-2025-an-honest-look-at-this-ai-business-coaching-tool-md",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 9.793103448275861
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/article-api-20260903-171438-creatium-coach-review-2025-is-this-ai-content-coach-worth-your-time-md",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 6.357142857142857
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/synthesia-review-2026",
+        "clicks": 0,
+        "impressions": 27,
+        "ctr": 0,
+        "position": 7.703703703703703
+      },
+      {
+        "key": "https://www.aitoolcrux.com/blog/best-ai-video-editors-2026",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 61.24
+      },
+      {
+        "key": "https://www.aitoolcrux.com/tools/pr-agent",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 81.08
+      }
+    ],
+    "topCountries": [
+      {
+        "key": "usa",
+        "clicks": 2,
+        "impressions": 1046,
+        "ctr": 0.0019120458891013384,
+        "position": 25.294455066921607
+      },
+      {
+        "key": "ind",
+        "clicks": 0,
+        "impressions": 113,
+        "ctr": 0,
+        "position": 36.017699115044245
+      },
+      {
+        "key": "gbr",
+        "clicks": 2,
+        "impressions": 74,
+        "ctr": 0.02702702702702703,
+        "position": 34.9054054054054
+      },
+      {
+        "key": "bra",
+        "clicks": 0,
+        "impressions": 64,
+        "ctr": 0,
+        "position": 14.140625
+      },
+      {
+        "key": "chn",
+        "clicks": 1,
+        "impressions": 34,
+        "ctr": 0.029411764705882353,
+        "position": 6
+      },
+      {
+        "key": "aus",
+        "clicks": 0,
+        "impressions": 34,
+        "ctr": 0,
+        "position": 57.470588235294116
+      },
+      {
+        "key": "can",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 19.90909090909091
+      },
+      {
+        "key": "vnm",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 12.233333333333333
+      },
+      {
+        "key": "are",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 23.344827586206897
+      },
+      {
+        "key": "kor",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 11.92
+      },
+      {
+        "key": "pak",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 27
+      },
+      {
+        "key": "fra",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 33.45454545454545
+      },
+      {
+        "key": "nld",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 16.523809523809526
+      },
+      {
+        "key": "mex",
+        "clicks": 0,
+        "impressions": 18,
+        "ctr": 0,
+        "position": 11.61111111111111
+      },
+      {
+        "key": "tha",
+        "clicks": 0,
+        "impressions": 18,
+        "ctr": 0,
+        "position": 64.66666666666666
+      },
+      {
+        "key": "idn",
+        "clicks": 0,
+        "impressions": 17,
+        "ctr": 0,
+        "position": 15.235294117647058
+      },
+      {
+        "key": "deu",
+        "clicks": 0,
+        "impressions": 16,
+        "ctr": 0,
+        "position": 21.25
+      },
+      {
+        "key": "jpn",
+        "clicks": 0,
+        "impressions": 15,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "key": "phl",
+        "clicks": 0,
+        "impressions": 15,
+        "ctr": 0,
+        "position": 20.666666666666668
+      },
+      {
+        "key": "sgp",
+        "clicks": 0,
+        "impressions": 14,
+        "ctr": 0,
+        "position": 22.214285714285715
+      }
+    ],
+    "topDevices": [
+      {
+        "key": "DESKTOP",
+        "clicks": 7,
+        "impressions": 1700,
+        "ctr": 0.00411764705882353,
+        "position": 25.38470588235294
+      },
+      {
+        "key": "MOBILE",
+        "clicks": 2,
+        "impressions": 220,
+        "ctr": 0.00909090909090909,
+        "position": 24.863636363636363
+      },
+      {
+        "key": "TABLET",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 19
+      }
+    ],
+    "queryClusters": [
+      {
+        "key": "ai",
+        "clicks": 0,
+        "impressions": 420,
+        "ctr": 0,
+        "position": 67.26190476190476
+      },
+      {
+        "key": "other",
+        "clicks": 1,
+        "impressions": 202,
+        "ctr": 0.0049504950495049506,
+        "position": 44.881188118811885
+      }
+    ],
+    "topLandingPages": [
+      {
+        "landingPage": "/",
+        "sessions": 3,
+        "engagedSessions": 0,
+        "engagementRate": 0,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/blog/dify_ai_review",
+        "sessions": 2,
+        "engagedSessions": 2,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/compare",
+        "sessions": 2,
+        "engagedSessions": 2,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/blog/best-ai-resume-builders-2026",
+        "sessions": 1,
+        "engagedSessions": 1,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/blog/best-ai-voice-changers-2026",
+        "sessions": 1,
+        "engagedSessions": 0,
+        "engagementRate": 0,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/blog/windsurf-review-2026",
+        "sessions": 1,
+        "engagedSessions": 1,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/category/writing",
+        "sessions": 1,
+        "engagedSessions": 1,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/tools/ailice",
+        "sessions": 1,
+        "engagedSessions": 1,
+        "engagementRate": 1,
+        "keyEvents": 0
+      },
+      {
+        "landingPage": "/tools/wrenai",
+        "sessions": 1,
+        "engagedSessions": 1,
+        "engagementRate": 1,
+        "keyEvents": 0
+      }
+    ]
+  },
+  "opportunities": []
+}
