@@ -1,0 +1,1228 @@
+{
+  "reportType": "gsc-indexing-check",
+  "generatedAt": "2026-10-08T08:28:26.856810Z",
+  "siteUrl": "https://www.aitoolcrux.com/",
+  "sitemapUrl": "https://www.aitoolcrux.com/sitemap.xml",
+  "durationSeconds": 103.97,
+  "summary": {
+    "totalUrlsInSitemap": 795,
+    "urlsCheckedThisRun": 200,
+    "urlsSkippedDueToLimit": 595,
+    "indexedPass": 0,
+    "notIndexedFail": 0,
+    "neutral": 0,
+    "errors": 200,
+    "unknown": 0,
+    "urlsSubmittedForIndexing": 0,
+    "indexingSubmissionsFailed": 0
+  },
+  "inspectionResults": [
+    {
+      "url": "https://www.aitoolcrux.com/",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/ranking",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/compare",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/free-ai-tools-guide",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/generator",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/blog",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/authors",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/about",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/contact",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/disclosure",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/privacy",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/terms",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/methodology",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/ai-policy",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/alternatives",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatgpt",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/claude",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gemini",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/midjourney",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/dall-e-3",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/stable-diffusion",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/github-copilot",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/cursor",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/windsurf",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/jasper",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/copy-ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/notion-ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/grammarly",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/runway",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/sora",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/elevenlabs",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/perplexity",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/figma-ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/canva-magic",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/suno",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/n8n",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/auto-gpt",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ollama",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/dify",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-cpp",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gemini-cli",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/open-webui",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/vllm",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/claude-code",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/browser-use",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/lobe-chat",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langflow",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openhands",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/codex",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mineru",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchain",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/docling",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-index",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/worldmonitor",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/crewai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/milvus",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ragflow",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/cherry-studio",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ray",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/jan",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/litellm",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/unsloth",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/text-generation-webui",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/firecrawl",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/fabric",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/phidata",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/goose",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mem0",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/librechat",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/anything-llm",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/continue",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/copilotkit",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/flowise",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/crawl4ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/composio",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openai-python",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pydantic",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/semantic-kernel",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-factory",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chroma",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langgraph",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openai-translator",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/haystack",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langfuse",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/repomix",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mastra",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/faiss",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/python-sdk",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/dspy",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/servers",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/prefect",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/scrapegraph-ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/markitdown",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/autogen",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agentscope",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatbox",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/skyvern",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/qdrant",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/tradingagents",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/temporal",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/promptfoo",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/whisperx",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/opik",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/roo-code",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchainjs",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/windmill",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/weaviate",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/camel",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pydantic-ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/olmocr",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatdev",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/unstructured",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/letta",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/typescript-sdk",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/a2a",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chainlit",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/buzz",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/open-notebook",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/e2b",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gpt-researcher",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/tensorzero",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/peft",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pipecat",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agency-agents",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/db-gpt",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/eino",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/autoresearch",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gstack",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/deer-flow",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/wrenai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llama-cpp-python",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/outlines",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/txtai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/phoenix",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/smolagents",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/docsgpt",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/cognee",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/tabby",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/guidance",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llmware",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langchain4j",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/deepeval",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/scalene",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mcp-go",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/bentoml",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gateway",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/axolotl",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/gpt-computer-assistant",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openllmetry",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/screenshot-to-code",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/voltagent",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/instructor",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/praisonai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/guardrails",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/aider",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/oumi",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/whodb",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/pr-agent",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chat-ui",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/mlc-llm",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agency-swarm",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/manifest",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agenta",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/inspector",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/casibase",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/chatgpt-shortcut",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/steel-browser",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/llm",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langroid",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/text-generation-inference",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/bifrost",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/specification",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langwatch",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/private-gpt",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/bitnet",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/vanna",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ufo",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/swe-agent",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/langgraphjs",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ragas",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/generative-ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/nemo-guardrails",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/happy",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/griptape",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/openlit",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/botpress",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ai-chatbot",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/skills",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/open-interpreter",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/harbor",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/code-interpreter",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/claude-code-router",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/jupyter-ai",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/finrobot",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/ludwig",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/agixt",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/notte",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/toolhive",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    },
+    {
+      "url": "https://www.aitoolcrux.com/tools/index-tts",
+      "verdict": "ERROR",
+      "coverageState": "EXCEPTION",
+      "error": "('invalid_grant: Invalid grant: account not found', {'error': 'invalid_grant', 'error_description': 'Invalid grant: account not found'})"
+    }
+  ],
+  "indexingResults": [],
+  "urlsNotIndexed": [],
+  "configuration": {
+    "maxUrlsPerRun": 200,
+    "indexingBatchSize": 100,
+    "sleepBetweenRequests": 0.5
+  }
+}
